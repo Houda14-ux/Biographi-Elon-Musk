@@ -1,0 +1,22 @@
+#nom{
+    background-color: black;
+    color: rgb(224, 181, 181);
+    text-align: center;
+}
+#cv3
+{
+    background-color: rgb(137, 200, 219);
+    
+}
+#img {
+    margin: auto;
+    display: block;
+}
+#sous_titr {text-align: center;
+}
+.centrage{
+    color: rgb(163, 41, 41);
+    text-align: center;
+    border-top: 1px solid white;
+    padding-top: 10px ;
+}

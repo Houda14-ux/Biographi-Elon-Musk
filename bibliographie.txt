@@ -1,0 +1,14 @@
+<title>  : pour écrire un titre.
+<link>   : link pour css.
+<h1...h6>:Titre important. 
+<ul>,<li> : liste à puce.
+<strong> : texte en gras.
+<p>      : paraghraphe
+<br>     : retoure à la ligne.
+<u>      : mette la ligne.
+<img>    : insertion d'image.
+<a>      : crèer des liens vers d'autre page.
+centrage :mettre au centre.
+margin   :distance entre les bordures de la page.
+border   :allow you to specify the style, width, and color of an element's border
+background-color : changer background cooleur .
